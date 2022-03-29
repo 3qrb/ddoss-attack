@@ -4,5 +4,5 @@ ls
 
 cd demon-attack
 
-python2 demon-attack.py
+python2 ddoss-attack.py
 
