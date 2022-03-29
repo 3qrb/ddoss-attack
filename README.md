@@ -1,8 +1,8 @@
-git clone https://github.com/3qrb/demon-attack.git
+git clone https://github.com/3qrb/ddoss-attack.git
 
 ls 
 
-cd demon-attack
+cd ddoss-attack
 
 python2 ddoss-attack.py
 
